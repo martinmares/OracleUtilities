@@ -16,7 +16,7 @@ IS
     *
     * UTL$OUT
     *
-    * Copyright (c) 2010, Martin Mareš
+    * Copyright (c) 2010, Martin Mareš <martin at sequel-code.cz>
     * All rights reserved.
     *
     * This library is free software; you can redistribute it and/or

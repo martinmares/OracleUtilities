@@ -261,11 +261,6 @@ IS
                           '.UTL$ERROR_CODES');
             set_plsql_str('    * Generated: ' ||
                           TO_CHAR(SYSDATE,('DD/MM/YYYY HH24:MI:SS')));
-            set_plsql_str('    *');
-            set_plsql_str('    * ----------------------------------------------------------------------');
-            set_plsql_str('    * Copyright (C) ' ||
-                          TO_CHAR(SYSDATE, 'YYYY') ||
-                          ' Martin Mareš <martin.mares at seznam.cz>, All rights reserved.');
             set_plsql_str('    * ======================================================================');
             set_plsql_str('    */');
             set_plsql_str(' ');

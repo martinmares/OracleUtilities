@@ -14,7 +14,7 @@ IS
     *
     * UTL$ERROR
     *
-    * Copyright (c) 2012, Martin Mareš
+    * Copyright (c) 2012, Martin Mareš <martin at sequel-code.cz>
     * All rights reserved.
     *
     * This library is free software; you can redistribute it and/or

@@ -11,9 +11,6 @@ IS
     *
     * Dynamically generated package as defined in the table UTL$ERROR_CODES
     * Generated: 11/06/2012 20:13:00
-    *
-    * ----------------------------------------------------------------------
-    * Copyright (C) 2012 Martin Mareš <martin.mares at seznam.cz>, All rights reserved.
     * ======================================================================
     */
     -- Basic data types inerited from UTL$DATA_TYPES package
